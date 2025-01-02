@@ -1,0 +1,13 @@
+[package]
+name = "chat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+async-openai = "0.26.0"
+chrono = "0.4.39"
+dotenvy = "0.15.7"
+iced = { version = "0.13.1", features = ["tokio", "markdown", "highlighter"] }
+open = "5.3.1"
+thiserror = "2.0.9"
+tokio = "1.42.0"
