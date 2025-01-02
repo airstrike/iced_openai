@@ -1,3 +1,5 @@
+<div align="center">
+
 # iced_openai
 
 A simple chat application built with [iced](https://github.com/iced-rs/iced) and
@@ -7,6 +9,10 @@ particular case, the application allows you to chat with an OpenAI assistant
 using your provided API key.
 
 [![Made with iced](https://iced.rs/badge.svg)](https://github.com/iced-rs/iced)
+
+<img src="./demo.gif" alt="Pathfinder Demo" width="600"/>
+
+</div>
 
 ## Overview
 
